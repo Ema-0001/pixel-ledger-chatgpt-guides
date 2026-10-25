@@ -1,0 +1,14 @@
+{
+  "updated": "2026-10-25",
+  "firstApp": "mynventory",
+  "publicInstallAvailable": false,
+  "directoryUrl": null,
+  "apps": {
+    "mynventory": "in-development",
+    "dokivault": "planned",
+    "mycommit": "planned",
+    "wishnext": "planned",
+    "realmily": "planned",
+    "monpath": "planned"
+  }
+}
